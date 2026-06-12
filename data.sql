@@ -1,0 +1,7 @@
+insert into incidents values(101, sysdate, sysdate+1, 'High','Resolved', 'DataOps Team','File Issue', 4)
+insert into incidents values(102, sysdate, sysdate+2, 'Medium','Resolved', 'DataOps Team','Data Issue', 4)
+insert into incidents values(103, sysdate, sysdate+2, 'Medium','Resolved', 'DataOps Team','Space Issue', 4)
+insert into incidents values(104, sysdate, sysdate+3, 'Low','Resolved', 'DataOps Team','File missing',4)
+insert into incidents values(105, sysdate, sysdate+3, 'Low','Resolved', 'DataOps Team','File Issue', 5)
+insert into incidents values(106, sysdate, sysdate+1, 'High','Resolved', 'DataOps Team','File Issue', 4)
+insert into incidents values(107, sysdate, sysdate, 'High','Open', 'DataOps Team','File Issue', 5)
